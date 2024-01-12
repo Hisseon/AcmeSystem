@@ -1,0 +1,28 @@
+﻿@page
+@model PurchasesModel
+
+<h2>Purchases</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Subsidiary Name</th>
+            <th>Quantity Purchased</th>
+            <th>Date Purchased</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var purchase in Model.Purchases)
+        {
+            <tr>
+                <td>@purchase.PurchaseId</td>
+                <td>@purchase.ProductId</td>
+                <td>@purchase.SubsidiaryId</td>
+                <td>@purchase.QuantityPurchased</td>
+                <td>@purchase.PurchaseDate</td>
+            </tr>
+        }
+    </tbody>
+</table>

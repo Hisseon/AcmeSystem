@@ -1,0 +1,28 @@
+﻿@page
+@model SalesModel
+
+<h2>Sales</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Subsidiary Name</th>
+            <th>Quantity Sold</th>
+            <th>Date Sold</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model.Sales)
+        {
+            <tr>
+                <td>@sale.SaleId</td>
+                <td>@sale.ProductId</td>
+                <td>@sale.SubsidiaryId</td>
+                <td>@sale.QuantitySold</td>
+                <td>@sale.SaleDate</td>
+            </tr>
+        }
+    </tbody>
+</table>

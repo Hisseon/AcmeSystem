@@ -1,0 +1,27 @@
+﻿@page
+@model InventoryModel
+
+<h2>Inventory</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product Name</th>
+            <th>Subsidiary Name</th>
+            <th>Stock</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.InventoryItems)
+        {
+            <tr>
+                <td>@item.InventoryId</td>
+                <td>@item.ProductId</td>
+                <td>@item.SubsidiaryId</td>
+                <td>@item.Stock</td>
+            </tr>
+        }
+    </tbody>
+</table>

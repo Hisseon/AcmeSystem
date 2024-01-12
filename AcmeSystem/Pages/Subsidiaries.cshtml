@@ -1,0 +1,23 @@
+﻿@page
+@model SubsidiariesModel
+
+<h2>Subsidiaries</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subsidiary in Model.Subsidiaries)
+        {
+            <tr>
+                <td>@subsidiary.SubsidiaryId</td>
+                <td>@subsidiary.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
