@@ -1,0 +1,17 @@
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Infra.deps.json
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Infra.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Infra.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.AssemblyInfoInputs.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.AssemblyInfo.cs
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.csproj.CoreCompileInputs.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\refint\AcmeSys.Infra.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\ref\AcmeSys.Infra.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.csproj.AssemblyReference.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Dominio.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Dominio.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.csproj.CopyComplete
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\bin\Debug\net6.0\AcmeSys.Infra.runtimeconfig.json
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.Infra\obj\Debug\net6.0\AcmeSys.Infra.genruntimeconfig.cache
