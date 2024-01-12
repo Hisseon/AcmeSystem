@@ -1,0 +1,39 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AcmeSystem
+build_property.RootNamespace = AcmeSystem
+build_property.ProjectDir = C:\Users\bulle\source\repos\AcmeSystem\AcmeSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bulle\source\repos\AcmeSystem\AcmeSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bulle/source/repos/AcmeSystem/AcmeSystem/Pages/Inventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bulle/source/repos/AcmeSystem/AcmeSystem/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bulle/source/repos/AcmeSystem/AcmeSystem/Pages/Purchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVyY2hhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bulle/source/repos/AcmeSystem/AcmeSystem/Pages/Sales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bulle/source/repos/AcmeSystem/AcmeSystem/Pages/Subsidiaries.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2lkaWFyaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
