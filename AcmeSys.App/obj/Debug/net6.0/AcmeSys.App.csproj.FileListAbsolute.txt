@@ -1,0 +1,17 @@
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.App.deps.json
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.App.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.App.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.AssemblyInfoInputs.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.AssemblyInfo.cs
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.csproj.CoreCompileInputs.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\refint\AcmeSys.App.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\ref\AcmeSys.App.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.csproj.AssemblyReference.cache
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.Dominio.dll
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.Dominio.pdb
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.csproj.CopyComplete
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\bin\Debug\net6.0\AcmeSys.App.runtimeconfig.json
+C:\Users\bulle\source\repos\AcmeSystem\AcmeSys.App\obj\Debug\net6.0\AcmeSys.App.genruntimeconfig.cache
